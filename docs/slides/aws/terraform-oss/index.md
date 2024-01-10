@@ -38,10 +38,10 @@ layout: true
 ---
 name: Introductions
 # Introductions
-- Your Name
-- Job Title
-- Automation Experience
-- Favorite Text Editor
+- Ben Lara 
+- Solutions Engineer - HashiCorp
+- 5+ years Terraform experience
+- VSCode -> Neovim
 
 ???
 Use this slide to introduce yourself, give a little bit of your background story, then go around the room and have all your participants introduce themselves.
